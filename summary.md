@@ -1,2 +1,2 @@
-date,title,description,author,createdAt,tags,path
-2026-09-18,"AVGO stock will reach 345.50, 2026-09-18","AVGO is expected to recover modestly toward $345.50 with a low near $332.50 as the name stabilises after a sharp mid-September slide.","mhoshi-vm","2026-09-18T02:48:00","avgo,broadcom,daily","blogs/2026/09/18.md"
+year,week,title,description,author,createdAt,tags,path
+2026,39,"AVGO stock will reach 350.0, week 39 of 2026","AVGO is projected to trade between 330.0 and 350.0 next week as the stock attempts to stabilize after a sharp two-session slide, with AI infrastructure and chip-supplier narratives dominating community discussion.","mhoshi-vm","2026-09-18T09:00:00","avgo,broadcom,weekly","blogs/2026/39.md"
