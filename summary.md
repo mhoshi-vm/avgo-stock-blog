@@ -1,3 +1,2 @@
 date,title,description,author,createdAt,tags,path
 2026-09-18,"AVGO stock will reach 345.0, 2026-09-18","AVGO predicted to trade between $325 and $345 as AI demand momentum and VMware integration progress offset near-term valuation concerns.","mhoshi-vm","2026-09-18T16:01:00","avgo,broadcom,daily","blogs/2026/09/18.md"
-2026,39,"AVGO stock will reach 350.0, week 39 of 2026","AVGO is projected to trade between 330.0 and 350.0 next week as the stock attempts to stabilize after a sharp two-session slide, with AI infrastructure and chip-supplier narratives dominating community discussion.","mhoshi-vm","2026-09-18T09:00:00","avgo,broadcom,weekly","blogs/2026/39.md"
