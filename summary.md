@@ -1,4 +1,5 @@
 date,title,description,author,createdAt,tags,path
+2026-10-24,"AVGO stock will reach 328.0, 2026-10-24","Continued AI-spend anxiety and Broadcom-VMware integration friction keep downward pressure on AVGO heading into Friday's close","mhoshi-vm","2026-10-24T11:08:00","avgo,broadcom,daily","blogs/2026/10/24.md"
 2026-10-23,"AVGO stock will reach 342.5, 2026-10-23","Building on a steady recovery from mid-October lows, AVGO is expected to extend its uptrend toward 342.5 tomorrow as community sentiment stabilises around VMware strategy and networking demand.","mhoshi-vm","2026-10-23T12:00:00","avgo,broadcom,daily","blogs/2026/10/23.md"
 2026-10-21,"AVGO stock will reach 340.0, 2026-10-21","AVGO is predicted to trade between 322.0 and 340.0 as the post-CVE bounce meets a global AI-sell-off and semiconductor-index weakness.","mhoshi-vm","2026-10-21T12:00:00","avgo,broadcom,daily","blogs/2026/10/21.md"
 2026-10-20,"AVGO stock will reach 325.0, 2026-10-20","AVGO is predicted to trade between 310.0 and 325.0 as the Wi-Fi CVE disclosure and AI-sector sell-off compound the multi-week downtrend.","mhoshi-vm","2026-10-20T12:00:00","avgo,broadcom,daily","blogs/2026/10/20.md"
